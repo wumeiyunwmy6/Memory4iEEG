@@ -1,0 +1,200 @@
+subj_ID,X,Y,Z,Networks,HM,Age
+sub023,-15.9231,-1.86923,-21,3Amygdala,LH,30
+sub023,-19.287,-1.15764,-21.65409,3Amygdala,LH,30
+sub023,-22.65089,-0.44604,-22.30818,3Amygdala,LH,30
+sub023,-29.37869,0.97714,-23.61636,1Superior temporal gyrus,LH,30
+sub023,-49.56207,5.2467,-27.54091,1Superior temporal gyrus,LH,30
+sub023,-49.21156,-8.80607,-13.44285,1Superior temporal gyrus,LH,30
+sub023,-29.0769,-14.7462,-14,2Hippocampus,LH,30
+sub023,-3.20923,19.5686,46.78259,4Frontoparietal,LH,30
+sub023,-6.12923,21.4952,46.67388,4Frontoparietal,LH,30
+sub023,43.72867,29.94859,40.16476,4Frontoparietal,RH,30
+sub021,18.9692,-6.43846,-18,3Amygdala,RH,44
+sub021,22.21145,-5.61015,-19.02553,3Amygdala,RH,44
+sub021,25.4537,-4.78184,-20.05106,3Amygdala,RH,44
+sub021,28.69595,-3.95353,-21.07659,3Amygdala,RH,44
+sub021,31.9382,-3.12521,-22.10211,3Amygdala,RH,44
+sub021,22.1538,-12.8077,-17,2Hippocampus,RH,44
+sub021,25.6327,-12.9287,-16.63586,2Hippocampus,RH,44
+sub021,29.11161,-13.0497,-16.27173,2Hippocampus,RH,44
+sub021,32.59051,-13.17071,-15.90759,2Hippocampus,RH,44
+sub021,30.0462,-22.6385,-14,2Hippocampus,RH,44
+sub021,33.31292,-23.7368,-13.38984,2Hippocampus,RH,44
+sub021,36.57964,-24.83509,-12.77967,2Hippocampus,RH,44
+sub021,47.16923077,-13.63846154,-13.99451,1Superior temporal gyrus,RH,44
+sub021,50.11061,-4.53965,-4.85601,1Superior temporal gyrus,RH,44
+sub021,-51.2512,-2.60158,-11.77353,1Superior temporal gyrus,LH,44
+sub021,-53.9024,-2.08778,-9.54707,1Superior temporal gyrus,LH,44
+sub021,-56.5536,-1.57398,-7.3206,1Superior temporal gyrus,LH,44
+sub021,-61.856,-0.54639,-2.86767,1Superior temporal gyrus,LH,44
+sub021,62.51538462,-33.50769231,-8.22976,4Frontoparietal,RH,44
+sub021,19.2935,41.49567,-14.48585,4Frontoparietal,RH,44
+sub021,22.66302,41.84844,-13.60731,4Frontoparietal,RH,44
+sub021,32.77161,42.90675,-10.9717,4Frontoparietal,RH,44
+sub019,19.0385,-2.7,-26,3Amygdala,RH,20
+sub019,22.53209,-2.51188,-26.09704,3Amygdala,RH,20
+sub019,26.02569,-2.32377,-26.19409,3Amygdala,RH,20
+sub019,29.51928,-2.13565,-26.29113,3Amygdala,RH,20
+sub019,25.8231,-16.9615,-19,2Hippocampus,RH,20
+sub019,29.21858,-17.73246,-18.64459,2Hippocampus,RH,20
+sub019,32.61407,-18.50341,-18.28919,2Hippocampus,RH,20
+sub019,36.00955,-19.27437,-17.93378,2Hippocampus,RH,20
+sub019,24.9923,-29.0077,-11,2Hippocampus,RH,20
+sub019,28.23637,-30.3119,-11.15831,2Hippocampus,RH,20
+sub019,31.48044,-31.61611,-11.31661,2Hippocampus,RH,20
+sub019,-28.5923,-16.5462,-19,2Hippocampus,LH,20
+sub019,-31.90467,-15.45588,-19.29903,2Hippocampus,LH,20
+sub019,52.03553,-20.78793,6.9544,1Superior temporal gyrus,RH,20
+sub019,55.42263,-21.44244,7.54528,1Superior temporal gyrus,RH,20
+sub019,31.23071,37.85953,-13.57992,4Frontoparietal,RH,20
+sub019,33.90891,39.84254,-12.50991,4Frontoparietal,RH,20
+sub019,56.38246,-23.90012,-15.80135,4Frontoparietal,RH,20
+sub019,60.67708,-43.35393,-12.74137,4Frontoparietal,RH,20
+sub019,63.92115,-44.65813,-12.89968,4Frontoparietal,RH,20
+sub019,67.16522,-45.96234,-13.05799,4Frontoparietal,RH,20
+sub018,17.5583,-1.44142,-16,3Amygdala,RH,27
+sub018,20.95069,-0.58368,-16.07712,3Amygdala,RH,27
+sub018,24.34309,0.27405,-16.15424,3Amygdala,RH,27
+sub018,-20.6826,-4.94059,-20,3Amygdala,LH,27
+sub018,-24.13873,-5.03767,-20.54379,3Amygdala,LH,27
+sub018,-27.59487,-5.13476,-21.08758,3Amygdala,LH,27
+sub018,-31.051,-5.23184,-21.63137,3Amygdala,LH,27
+sub018,31.9299,-20.4369,-14,2Hippocampus,RH,27
+sub018,35.06422,-21.96897,-13.71925,2Hippocampus,RH,27
+sub018,38.19853,-23.50104,-13.4385,2Hippocampus,RH,27
+sub018,27.73548,1.13179,-16.23135,1Superior temporal gyrus,RH,27
+sub018,31.12788,1.98952,-16.30847,1Superior temporal gyrus,RH,27
+sub018,44.69746,5.42047,-16.61694,1Superior temporal gyrus,RH,27
+sub018,54.87464,7.99368,-16.8483,1Superior temporal gyrus,RH,27
+sub018,58.26704,8.85141,-16.92542,1Superior temporal gyrus,RH,27
+sub018,66.55384615,-21.55384615,5,1Superior temporal gyrus,RH,27
+sub018,69.94615385,-22.36153846,5,1Superior temporal gyrus,RH,27
+sub018,63.27307,-35.75759,-11.19249,4Frontoparietal,RH,27
+sub018,66.40739,-37.28966,-10.91174,4Frontoparietal,RH,27
+sub018,40.46432,29.81725,17.55114,4Frontoparietal,RH,27
+sub018,45.52768,32.17311,21.7716,4Frontoparietal,RH,27
+sub018,52.39723292,12.90221493,14.96430561,4Frontoparietal,RH,27
+sub018,55.49257184,13.68584768,15.62865032,4Frontoparietal,RH,27
+sub017,-21.4615,-4.36154,-21.5,3Amygdala,LH,31
+sub017,-24.92692,-4.25118,-21.97824,3Amygdala,LH,31
+sub017,-28.39233,-4.14081,-22.45648,3Amygdala,LH,31
+sub017,-31.85775,-4.03045,-22.93472,3Amygdala,LH,31
+sub017,-21.8769,-14.1923,-17.5,2Hippocampus,LH,31
+sub017,-25.35992,-14.01764,-17.20318,2Hippocampus,LH,31
+sub017,-28.84293,-13.84298,-16.90637,2Hippocampus,LH,31
+sub017,-32.32595,-13.66832,-16.60955,2Hippocampus,LH,31
+sub017,-28.43076923,-24.13846154,-14,2Hippocampus,LH,31
+sub017,-31.86217,-24.94017,-13.99052,2Hippocampus,LH,31
+sub017,-35.20125,-25.85724,-13.48103,2Hippocampus,LH,31
+sub017,28.9385,-23.0538,-18.5,2Hippocampus,RH,31
+sub017,32.27462,-22.05417,-18.15207,2Hippocampus,RH,31
+sub017,35.61074,-21.05454,-17.80414,2Hippocampus,RH,31
+sub017,38.94685,-20.05491,-17.45621,2Hippocampus,RH,31
+sub017,-21.4615,10.5923,-37.5,1Superior temporal gyrus,LH,31
+sub017,-24.56151,11.16741,-35.98039,1Superior temporal gyrus,LH,31
+sub017,-27.66151,11.74252,-34.46078,1Superior temporal gyrus,LH,31
+sub017,-30.76152,12.31764,-32.94117,1Superior temporal gyrus,LH,31
+sub017,-33.86152,12.89275,-31.42156,1Superior temporal gyrus,LH,31
+sub017,-36.96153,13.46786,-29.90195,1Superior temporal gyrus,LH,31
+sub017,-49.36155,15.76831,-23.82351,1Superior temporal gyrus,LH,31
+sub017,-46.90973,-16.19231,0.25729,1Superior temporal gyrus,LH,31
+sub017,-53.62901,-16.87952,2.09548,1Superior temporal gyrus,LH,31
+sub017,-60.3483,-17.56673,3.93367,1Superior temporal gyrus,LH,31
+sub017,-63.70794,-17.91033,4.85276,1Superior temporal gyrus,LH,31
+sub017,-67.06759,-18.25393,5.77186,1Superior temporal gyrus,LH,31
+sub017,-56.21538462,-53.86153846,-16.02069,4Frontoparietal,LH,31
+sub017,-61.38461538,-58.38461538,-13.02069,4Frontoparietal,LH,31
+sub016,-21.3231,-5.46923,-22,3Amygdala,LH,9
+sub016,-24.80152,-5.28121,-21.66051,3Amygdala,LH,9
+sub016,-28.27994,-5.09319,-21.32103,3Amygdala,LH,9
+sub016,-31.75836,-4.90516,-20.98154,3Amygdala,LH,9
+sub016,-25.7538,-20.0077,-15,2Hippocampus,LH,9
+sub016,-29.20221,-19.88041,-14.41498,2Hippocampus,LH,9
+sub016,-32.65062,-19.75312,-13.82996,2Hippocampus,LH,9
+sub016,-36.09904,-19.62582,-13.24494,2Hippocampus,LH,9
+sub016,-49.89269,-19.11666,-10.90486,1Superior temporal gyrus,LH,9
+sub016,-53.3411,-18.98936,-10.31984,1Superior temporal gyrus,LH,9
+sub016,-24.06923077,49.52307692,6.29884,4Frontoparietal,LH,9
+sub016,46.03846154,47.58461538,-0.70116,4Frontoparietal,RH,9
+sub016,49.44976939,48.39570507,0.341551277,4Frontoparietal,RH,9
+sub015,17.7231,-4.5,-22,3Amygdala,RH,16
+sub015,21.1444,-4.41302,-21.26709,3Amygdala,RH,16
+sub015,24.5657,-4.32604,-20.53419,3Amygdala,RH,16
+sub015,27.987,-4.23905,-19.80128,3Amygdala,RH,16
+sub015,31.40829,-4.15207,-19.06838,3Amygdala,RH,16
+sub015,41.67219,-3.89113,-16.86966,1Superior temporal gyrus,RH,16
+sub015,51.93609,-3.63018,-14.67095,1Superior temporal gyrus,RH,16
+sub015,55.35738,-3.5432,-13.93804,1Superior temporal gyrus,RH,16
+sub015,57.50769231,-3.138461538,-13.20514,1Superior temporal gyrus,RH,16
+sub015,29.9077,-16.8231,-18,2Hippocampus,RH,16
+sub015,33.22772,-17.40898,-17.05969,2Hippocampus,RH,16
+sub015,36.54775,-17.99486,-16.11938,2Hippocampus,RH,16
+sub015,40.73832,47.50702,-4.37659,4Frontoparietal,RH,16
+sub014,17.6611,-4.31261,-23,3Amygdala,RH,25
+sub014,21.15099,-4.04671,-23,3Amygdala,RH,25
+sub014,24.64087,-3.78082,-23,3Amygdala,RH,25
+sub014,28.13076,-3.51492,-23,3Amygdala,RH,25
+sub014,31.62064,-3.24903,-23,3Amygdala,RH,25
+sub014,24.90368,-11.63679,-21.07352,2Hippocampus,RH,25
+sub014,28.39326,-11.89647,-21.14704,2Hippocampus,RH,25
+sub014,31.88284,-12.15616,-21.22056,2Hippocampus,RH,25
+sub014,35.37241,-12.41585,-21.29408,2Hippocampus,RH,25
+sub014,30.35638,-32.25128,-10.42455,2Hippocampus,RH,25
+sub014,33.83407,-31.98133,-10.13682,2Hippocampus,RH,25
+sub014,-24.2841,-12.7017,-21,2Hippocampus,LH,25
+sub014,-27.75634,-12.44522,-21.35746,2Hippocampus,LH,25
+sub014,-31.22858,-12.18875,-21.71492,2Hippocampus,LH,25
+sub014,58.85148,-12.83796,4,1Superior temporal gyrus,RH,25
+sub014,62.33895,-12.54205,4,1Superior temporal gyrus,RH,25
+sub014,65.82642,-12.24615,4,1Superior temporal gyrus,RH,25
+sub014,26.26127,52.96799,-15.66416,4Frontoparietal,RH,25
+sub014,29.38716,52.72753,-14.10819,4Frontoparietal,RH,25
+sub014,35.63892,52.24663,-10.99624,4Frontoparietal,RH,25
+sub014,35.11052,-54.44543,37.93811,4Frontoparietal,RH,25
+sub014,38.42647,-55.007,38.90716,4Frontoparietal,RH,25
+sub014,41.74243,-55.56857,39.87622,4Frontoparietal,RH,25
+sub012,35.4133,15.31541,-11.74018,4Frontoparietal,RH,25
+sub012,34.95089,16.65342,-8.53925,4Frontoparietal,RH,25
+sub012,34.48849,17.99142,-5.33833,4Frontoparietal,RH,25
+sub012,39.33544,24.59778,21.66138,4Frontoparietal,RH,25
+sub012,41.90363,31.29088,41.39984,4Frontoparietal,RH,25
+sub012,-31.35852,15.73291,-9.30357,4Frontoparietal,LH,25
+sub012,-31.28753,17.48281,-6.27326,4Frontoparietal,LH,25
+sub009,-28.2462,-22.0846,-16,2Hippocampus,LH,25
+sub009,-31.5848,-21.0489,-15.824,2Hippocampus,LH,25
+sub009,-34.9234,-20.0132,-15.648,2Hippocampus,LH,25
+sub009,-48.066,9.3027,10.3879,4Frontoparietal,LH,25
+sub009,-29.5857,27.898,34.3166,4Frontoparietal,LH,25
+sub009,-32.7091,29.3742,33.7554,4Frontoparietal,LH,25
+sub009,-35.8325,30.8505,33.1943,4Frontoparietal,LH,25
+sub009,-38.956,32.3267,32.6331,4Frontoparietal,LH,25
+sub009,-40.6787,19.9162,38.4722,4Frontoparietal,LH,25
+sub009,-43.8214,21.4511,38.3402,4Frontoparietal,LH,25
+sub009,-50.1069,24.5207,38.0763,4Frontoparietal,LH,25
+sub009,-2.324,28.1676,40.5597,4Frontoparietal,LH,25
+sub009,-4.5096,29.1275,43.1193,4Frontoparietal,LH,25
+sub009,-6.6952,30.0873,45.679,4Frontoparietal,LH,25
+sub006,28.0832,-13.1556,-25,2Hippocampus,RH,28
+sub006,31.50792,-13.0552,-24.28499,2Hippocampus,RH,28
+sub006,34.93263,-12.95481,-23.56998,2Hippocampus,RH,28
+sub006,27.99374,8.08683,55.31387,4Frontoparietal,RH,28
+sub006,5.61664,38.0962,37,4Frontoparietal,RH,28
+sub006,19.69696,44.82498,-12.06187,4Frontoparietal,RH,28
+sub006,42.61743,45.29691,-3.42015,4Frontoparietal,RH,28
+sub006,8.70579,26.8629,25,4Frontoparietal,RH,28
+sub006,11.91573,28.25799,25,4Frontoparietal,RH,28
+sub003,-23,-4.5,-24.5,3Amygdala,LH,11
+sub003,-26.1766,-3.59013,-25.65383,3Amygdala,LH,11
+sub003,-29.35321,-2.68027,-26.80767,3Amygdala,LH,11
+sub003,-28.5,-14,-20.5,2Hippocampus,LH,11
+sub003,-31.37631,-12.01121,-20.64679,2Hippocampus,LH,11
+sub003,-30,-25,-15,2Hippocampus,LH,11
+sub003,-33.47037,-24.66939,-14.68822,2Hippocampus,LH,11
+sub003,-25,-31,-13.5,2Hippocampus,LH,11
+sub003,-28.0712,-32.37517,-12.53738,2Hippocampus,LH,11
+sub003,25.5,-13.5,-20.5,2Hippocampus,RH,11
+sub003,28.88778,-12.74221,-20.94576,2Hippocampus,RH,11
+sub003,32.27556,-11.98441,-21.39152,2Hippocampus,RH,11
+sub003,-38.78004,-45.59751,35.5788,4Frontoparietal,LH,11
+sub003,-41.17007,-45.89626,38.11819,4Frontoparietal,LH,11
+sub003,-50.73015,-47.09127,48.27579,4Frontoparietal,LH,11
